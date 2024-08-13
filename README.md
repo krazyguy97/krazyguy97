@@ -1,6 +1,12 @@
-## Hi, this is my personal GitHub account where i do very dumb things and some hobby projects. 
+## Hi, this is my personal GitHub account where i do some hobby projects. (and other things) 
+Main pc specs:
+i5-6500
+AMD Radeon RX 6400 (RDNA 2)
+16gb DDR4 2133MT/s CL15
+1TB SSD that came from a dumpster
+OS: EndeavourOS rolling 64-bit
 
-Main system specs:
+Laptop specs:
 i3-1115G4
 Intel UHD 48EU (Gen12)
 8GB DDR4 3200MT/s CL22
@@ -10,12 +16,9 @@ OS: EndeavourOS rolling 64-bit
 Linuxified chromebook specs:
 Intel Celeron N3060
 Intel HD 400 (Gen8)
-4GB LPDDR3 1866MT/S
+4GB LPDDR3 1866MT/s
 128GB Samsung SD card and 16GB eMMC
 OS: EndeavourOS rolling 64-bit
-
-My skills:
-Tinkering, particularly with out of date and horrible hardware that nobody should use (Pentium 4 running Terraria lmao) 
 <!--
 **krazyguy97/krazyguy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
